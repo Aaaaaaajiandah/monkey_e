@@ -59,4 +59,4 @@ npx live-server
 
 ## License
 
-Distributed under the WTFPL License. See [here](https://github.com/MonkeyGG2/monkeygg2.github.io/blob/main/LICENSE) for more details.
+Distributed under the WTFPL License. See [here](https://github.com/Aaaaaaajiandah/monkey_e/blob/main/LICENSE) for more details.
